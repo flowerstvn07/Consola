@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1715899453 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\main.cpp
+	<iostream>
+	"Consola.h"
+
+1715900809 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\src\juego.cpp
+	"Juego.h"
+	<iostream>
+
+1715899453 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\include\juego.h
+	<iostream>
+
+1715899453 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\include\consola.h
+	"Juego.h"
+
+1715904347 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\src\conjeturaulam.cpp
+	"ConjeturaUlam.h"
+	<iostream>
+
+1715899453 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\include\conjeturaulam.h
+	"Juego.h"
+
+1715904302 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\src\consola.cpp
+	"Consola.h"
+	<iostream>
+	"Fibonacci.h"
+	"ConjeturaUlam.h"
+	"OrdenamientoBurbuja.h"
+	"MayorTresNumeros.h"
+	"MayorMenorCincoNumeros.h"
+
+1715899322 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\include\fibonacci.h
+	"Juego.h"
+
+1715899453 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\include\ordenamientoburbuja.h
+	"Juego.h"
+
+1715899453 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\include\mayortresnumeros.h
+	"Juego.h"
+
+1715899453 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\include\mayormenorcinconumeros.h
+	"Juego.h"
+
+1715904320 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\src\fibonacci.cpp
+	"Fibonacci.h"
+	<iostream>
+
+1715904278 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\src\mayormenorcinconumeros.cpp
+	"MayorMenorCincoNumeros.h"
+	<iostream>
+	<algorithm>
+	<vector>
+
+1715904422 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\src\mayortresnumeros.cpp
+	"MayorTresNumeros.h"
+	<iostream>
+	<algorithm>
+
+1715904397 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\guia_6\src\ordenamientoburbuja.cpp
+	"OrdenamientoBurbuja.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
